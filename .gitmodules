@@ -9,5 +9,5 @@
 	branch = 12.0
 [submodule "l10n_ar"]
 	path = l10n_ar
-	url = https://github.com/odoo-mastercore/l10n_ar.git
+	url = git@github.com:odoo-mastercore/l10n_ar.git
 	branch = 12.0
