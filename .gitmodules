@@ -11,3 +11,8 @@
 	path = l10n_ar
 	url = git@github.com:odoo-mastercore/l10n_ar.git
 	branch = 12.0
+
+[submodule "Tecnativa/knowledge"]
+	path = Tecnativa/knowledge
+	url = git@github.com:Tecnativa/knowledge.git
+	branch = 12.0-mig-document-page-approval
